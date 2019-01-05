@@ -4,4 +4,5 @@ Reference book: "Automate the Boring Stuff with Python: Practical Programming fo
 I recommand this book for Total Python Beginners.
 I would share the sample code for the project in each chapter of this book.
 
-
+![image](Python_practice/automate_small_cover.png)
+   
